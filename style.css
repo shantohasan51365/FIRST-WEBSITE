@@ -5,4 +5,8 @@ body{
 div{
     background-color: yellow;
     color: brown;
+    border: 25px    dotted  red;
+    border-radius: 25px;
+    margin: 0 auto;
+    padding: 50px;
 }
